@@ -1,5 +1,7 @@
 <img src="http://cdn2-cloud66-com.s3.amazonaws.com/images/oss-sponsorship.png" width=150/>
 
+![build_status](https://app.codeship.com/projects/eac78290-5ef1-0138-f343-1aecfe2393a1/status?branch=master)
+
 # GlobMatcher
 
 GlobMatcher is a string matcher for Ruby. You can use it to check for matches using wildcards. It supports multiple patterns as well as negative patterns.
