@@ -1,6 +1,6 @@
 <img src="http://cdn2-cloud66-com.s3.amazonaws.com/images/oss-sponsorship.png" width=150/>
 
-https://app.codeship.com/projects/eac78290-5ef1-0138-f343-1aecfe2393a1/status?branch=master
+![build_status](https://app.codeship.com/projects/eac78290-5ef1-0138-f343-1aecfe2393a1/status?branch=master)
 
 # GlobMatcher
 
